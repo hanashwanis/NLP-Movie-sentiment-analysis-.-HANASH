@@ -15,6 +15,7 @@ NLP Engine: TextBlob
 Data Handling: Pandas
 Visuals: Matplotlib & WordCloud
 
+
 **Quick Start**
 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/movie-sentiment-app.git
@@ -28,3 +29,8 @@ streamlit run app.py
 app.py: The main application logic.
 .streamlit/config.toml: Custom dark theme configuration.
 test_reviews.csv: Sample data for testing bulk  files
+
+**SCREENSHOTS**
+<img width="1920" height="1200" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/b45c1e0e-3ceb-431d-80cb-5cda465efb53" />
+<<img width="1920" height="1200" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/33574e21-a4ee-47c8-af53-7b65ca1b36f2" />
+<<img width="1920" height="1200" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/a015333e-6e94-45e7-b33d-3a923170e9d1" />
